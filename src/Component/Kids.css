@@ -1,0 +1,25 @@
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide-effect span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+
+  .kbk1{
+    background-image: url("pimage4.jpg");
+    height: 100%;
+  }
+  .kbk2{
+    background-image: url("pimage6.jpg");
+  }
+  .kbk3{
+    background-image: url("pimage7.jpg");
+  }

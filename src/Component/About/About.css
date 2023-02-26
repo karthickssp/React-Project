@@ -1,0 +1,108 @@
+.Abo
+{
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  top: 20px;
+  
+}
+.mis
+{
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+.vis {
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+.aud {
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+.app{
+  font-size: 20px;
+}
+.opn{
+  font-size: 20px;
+}
+.img{
+  height: 450px;
+}
+.info
+{
+  position:relative;
+  display:flex;
+  left: 40px;
+  width:200px;
+}
+.add
+{
+  position:relative;
+  display:flex;
+  left: 40px;
+  width:200px;
+}
+.ins
+{
+  position:relative;
+  display:flex;
+  left: 600px;
+  bottom:119px;
+  width:200px;
+}
+.con
+{
+  position:relative;
+  display:flex;
+  left: 600px;
+  bottom:119px; 
+   width:200px;
+}
+.mai
+{
+  position:relative;
+  display:flex;
+  left: 600px;
+  bottom:120px;
+  width:200px;
+  }
+  
+.bg
+{
+  background-image: linear-gradient(75deg,#7439db,#c66FBC 48%,#F7944d); 
+  
+}
+.head
+{
+  background-image: linear-gradient(75deg,#7439db,#c66FBC 48%,#F7944d); 
+padding-bottom: 30px;
+}
+.home
+{
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  top: -10px;
+  width: 200px;
+}
+.ing2
+{
+  width: 100px;
+  margin-left: 10px;
+
+}
+.address
+{
+  width: 200px;
+}
+.mail
+{
+  width: 200px;
+}
+.mobile
+{
+  width:200px;
+}

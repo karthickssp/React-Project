@@ -1,0 +1,24 @@
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 350px;
+  }
+  
+  .each-slide-effect span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  }
+
+  .tbk1{
+    background-image: url("pimage3.jpg");
+  }
+  .tbk2{
+    background-image: url("pimage5.jpg");
+  }
+  .tbk3{
+    background-image: url("pimage8.jpg");
+  }

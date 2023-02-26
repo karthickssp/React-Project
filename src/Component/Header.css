@@ -1,0 +1,113 @@
+.header{
+    background-image: linear-gradient(75deg,#7439db,#c66FBC 48%,#F7944d);
+    padding-bottom: 30px;
+  }
+  .title{
+    background-image: linear-gradient(75deg,#7439db,#c66FBC 48%,#F7944d);
+    margin-top: 15px;
+  }
+  .applogoh{
+    width: 15%;
+    float: left;
+    margin-top: 3%;
+    position: absolute;
+  }
+ 
+  .loginbtn{
+    height: 5%;
+    width: 6%;
+    position: absolute;
+    margin-right: 0%;
+    top:60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #ffffff;
+  }
+  .regbtn{
+    height: 5%;
+    width: 7%;
+    position: absolute;
+    right: 9%;
+    top:60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #ffffff;
+  }
+  .explore{
+    height: 5%;
+    width: 7%;
+    position: absolute;
+    right: 17%;
+    top:60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 39px;
+    color: #ffffff;
+}
+.nnote{
+  height: 5%;
+    width: 7%;
+    position: absolute;
+    right: 43%;
+    top:60px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: x-large;
+    line-height: 39px;
+    color: #ffffff;
+}
+.wel-add{
+    font-size: 200%;
+    background-image: linear-gradient(75deg,#7439db,#c66FBC 48%,#F7944d);
+}
+.ppp{
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 39px;
+  color: #ffffff;
+  width: 150px;
+}
+.ccc{
+  position: absolute;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 39px;
+  color: #ffffff;
+  margin-left: 30%;
+  top: 35%;
+}
+.kkk{
+  position: absolute;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 39px;
+  color: #ffffff;
+  margin-left: 60%;
+  top: 35%;
+}
+.ttt{
+  position: absolute;
+  top: 35%;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 39px;
+  color: #ffffff;
+  margin-left: 85%;
+}

@@ -1,0 +1,11 @@
+.apppp {
+    padding: 30px;
+    background-color: (184,134,134);
+  }
+  
+  .todo {
+    align-items: center;
+    display: flex;
+    font-size: 18px;
+    justify-content: space-between;
+  }

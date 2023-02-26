@@ -1,0 +1,181 @@
+#topic{
+    margin-top: 3%;
+    display: grid;
+    place-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 77px;
+    color: #FFFFFF;
+}
+#logo{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 20px;
+    top: 1px;
+    background-image: url("logo.jpg");
+    background-size: cover;
+    border-radius: 15px;
+    opacity: 60%;
+}
+#about{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 1160px;
+    top: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FAF9F9;
+}
+#sign{
+    position: absolute;
+    width: 132px;
+    height: 45px;
+    left: 1340px;
+    top: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #ffffff;
+    
+}
+
+#back{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    
+    background-image: url("loginb.jpg");
+    background-size: cover;
+    
+}
+#rempass{
+    position: absolute;
+    top: 520px;
+    left: 830px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-family: 'Inter';
+    content: '\f117';
+}
+#forgot{
+    position: absolute;
+    top: 520px;
+    left: 1330px;
+    color: white;
+   
+    font-family: 'Inter';
+    content: '\f117';
+    text-decoration: none;
+}
+#caption{
+    position: absolute;
+    width: 370px;
+    height: 201px;
+    left: 1000px;
+    top: 200px;
+    font-family: 'Inter';
+    font-style: italic;content: '\f117';
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    color: white;
+}
+#form{
+    position: absolute;
+}
+
+#user{
+    position:absolute;
+    width: 680px;
+    height: 60px;
+    left: 780px;
+    top: 200px;
+    background: white;
+    border-radius: 25px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+#psw{
+    position: absolute;
+    width: 680px;
+    height: 60px;
+    left: 780px;
+    top: 310px;
+    background: white;
+    border-radius: 25px;
+    font-family: 'Inter';
+
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+#login{
+    position: absolute;
+    width: 233px;
+    height: 59px;
+    left: 820px;
+    top: 500px;
+    background: #728BE4;
+    border-radius: 25px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+#signup{
+    position: absolute;
+    width: 233px;
+    height: 59px;
+    top: 500px;
+    left: 1200px;
+    background: #17AC1D;
+    border-radius: 25px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+#remember{
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    top: 410px;
+    left: 790px;
+}
+#uerror{
+    position: absolute;
+    width: 300px;
+    top: 270px;
+    left: 800px;
+}
+#perror{
+    position: absolute;
+    width: 300px;
+    top: 380px;
+    left: 800px;
+}

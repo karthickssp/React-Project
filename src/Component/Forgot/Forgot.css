@@ -1,0 +1,172 @@
+#topic1{
+    margin-top: 3%;
+    display: grid;
+    place-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 50px;
+    line-height: 77px;
+    color: #FFFFFF;
+}
+#logo1{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    left: 20px;
+    top: 1px;
+    background-image: url("logo.jpg");
+    background-size: cover;
+    border-radius: 15px;
+    opacity: 60%;
+}
+#about1{
+    position: absolute;
+    width: 200px;
+    height: 45px;
+    left: 1160px;
+    top: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #FAF9F9;
+}
+#sign1{
+    position: absolute;
+    width: 132px;
+    height: 45px;
+    left: 1340px;
+    top: 66px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 39px;
+    color: #ffffff;
+    
+}
+
+#back1{
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    
+    background-image: url("loginb.jpg");
+    background-size: cover;
+    
+}
+#rempass1{
+    position: absolute;
+    top: 580px;
+    left: 830px;
+    color: white;
+    width: 150px;
+    height: 50px;
+    font-family: 'Inter';
+    content: '\f117';
+}
+
+#caption1{
+    position: absolute;
+    width: 470px;
+    height: 201px;
+    left: 900px;
+    top: 150px;
+    font-family: 'Inter';
+    font-style: italic;content: '\f117';
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+    color: white;
+}
+#form1{
+    position: absolute;
+}
+
+#user1{
+    position:absolute;
+    width: 680px;
+    height: 60px;
+    left: 780px;
+    top: 150px;
+    background: white;
+    border-radius: 25px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+#psw1{
+    position: absolute;
+    width: 680px;
+    height: 60px;
+    left: 780px;
+    top: 260px;
+    background: white;
+    border-radius: 25px;
+    font-family: 'Inter';
+
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+#otp1{
+    position: absolute;
+    width: 680px;
+    height: 60px;
+    left: 780px;
+    top: 360px;
+    background: white;
+    border-radius: 25px;
+    font-family: 'Inter';
+
+    font-style: italic;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+#login1{
+    position: absolute;
+    width: 300px;
+    height: 59px;
+    left: 980px;
+    top: 550px;
+    background: #728BE4;
+    border-radius: 25px;
+
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+#uerror1{
+    position: absolute;
+    width: 300px;
+    top: 220px;
+    left: 800px;
+}
+#perror1{
+    position: absolute;
+    width: 300px;
+    top: 330px;
+    left: 800px;
+}
+#oerror1{
+    position: absolute;
+    width: 300px;
+    top: 430px;
+    left: 800px;
+}

@@ -1,0 +1,276 @@
+.backg{
+    background-image: url("loginb.jpg");
+    background-size: cover;
+    position:absolute;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    
+}
+#head{
+    position: absolute;
+    width: 350px;
+    height: 30px;
+    left: 650px;
+    top: 35px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 29px;
+    color: white;
+}
+.form{
+    position: absolute;
+    top:32%;
+    left: 50%;
+    align-items: center;
+}
+#fname
+{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    bottom: 270px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+}
+#fname1
+{
+    position: absolute;
+    width: 250px;
+    height: 30px;
+    left: 420px;
+    bottom: 265px;
+}
+#ferror
+{
+    position: absolute;
+    width: 200px;
+    left: 420px;
+    bottom: 248px;
+}
+#lname
+{
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    bottom: 210px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+}
+#lname1
+{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    bottom: 208px;
+}
+#lerror
+{
+    position: absolute;
+    width: 200px;
+    left: 420px;
+    bottom: 190px;
+}
+#email
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    bottom: 155px;
+}
+#email1
+{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    bottom: 150px;
+}
+#eerror
+{
+    position:absolute;
+    width: 200px;
+    left: 420px;
+    bottom: 132px;
+}
+#designation
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    bottom: 95px;
+}
+#designation1
+{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    bottom: 90px;
+}
+#edesignation
+{
+    position:absolute;
+    width: 200px;
+    left: 420px;
+    bottom: 72px;
+}
+#institution
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    bottom: 40px;
+}
+#institution1
+{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    bottom: 35px;
+}
+#einstitution
+{
+    position:absolute;
+    width: 250px;
+    left: 420px;
+    bottom:  18px;
+}
+#zip
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    top: 155px;
+}
+
+#zip1
+{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    top: 155px;
+}
+#ezip
+{
+    position:absolute;
+    width: 200px;
+    left: 420px;
+    top: 190px;
+}
+#mobile
+{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    top: 220px;
+}
+#mobile1
+{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    top: 220px;
+}
+#emobile
+{
+    position:absolute;
+    width: 200px;
+    left: 420px;
+    top: 255px;
+}
+#password{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    color: white;
+    position: absolute;
+    width: 150px;
+    height: 30px;
+    left: 250px;
+    top: 280px;
+}
+#password1{
+    position: absolute;
+    width: 250px;
+    height:30px;
+    left: 420px;
+    top: 280px;
+}
+#epassword{
+    position:absolute;
+    width: 200px;
+    left: 420px;
+    top: 315px;
+}
+#button
+{
+    position:absolute;
+    width: 200px;
+    height: 50px;
+    left: 320px;
+    top: 360px;
+    background: #17AC1D;
+    border-radius: 10px;
+}
+#register{
+    position:absolute;
+    width: 400px;
+    left: 1050px;
+    top: 690px;
+    color: white;
+}
